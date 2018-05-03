@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Gaydar</groupId>
-    <artifactId>^PhantomDar</artifactId>
+    <artifactId>PhantomDar</artifactId>
     <version>1.0</version>
 
     <properties>
