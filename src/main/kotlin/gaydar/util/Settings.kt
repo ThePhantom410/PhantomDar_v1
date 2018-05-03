@@ -156,7 +156,7 @@ class Settings
         var nameToggles : Int = 0,
 
         // Filter Equipment 1-2
-        var filterLvl2 : Int = 0,
+        var filterLvl2 : Int = 4,
 
         // Vehicle Information Toggles 1-2
         var VehicleInfoToggles : Int = 1,
